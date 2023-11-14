@@ -1,1 +1,1 @@
-# event-catalog-sample
+# My Event Catalog
